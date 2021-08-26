@@ -10112,3 +10112,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.project_container{
+  padding-left:10px;
+}
