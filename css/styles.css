@@ -10114,5 +10114,25 @@ section.resume-section .resume-section-content {
 }
 
 .project_container{
+
+  width: 80%;
+
   padding-left:10px;
+  padding-bottom:10px;
+  margin-left:10px;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+
+.project_img{
+  float: right;
+  padding-right: 10px;
+  clear: both;
+}
+
+.project_description{
+  padding-left:20px;
+  padding-bottom: 10px;
+  width: 40%;
+  color: black;
 }
