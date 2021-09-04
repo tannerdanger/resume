@@ -10209,8 +10209,9 @@ body {
 
 .portfolio {
   display: grid;
-  grid: auto / repeat(auto-fit, minmax(15em, 1fr));
-  grid-gap: 1em;
+  /*grid: auto / repeat(auto-fit, minmax(15em, 1fr));*/
+  grid: auto / repeat(auto-fit, minmax(22em, 1fr));
+  grid-gap: 2em;
   background: #dae0e5;
   padding: 7em 4em;
 }
